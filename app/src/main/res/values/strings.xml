@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TransitionButton</string>
+    <string name="main_title">Transition Button</string>
+    <string name="main_button">login</string>
+    <string name="main_email_hint">Email</string>
+    <string name="main_password_hint">Password</string>
+</resources>
